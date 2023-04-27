@@ -2,6 +2,18 @@
 Team Members:
 Eric Chen
 
+List of External Libraries:
+
+rpi side:
+- time
+- grovepi
+- paho-mqtt
+
+laptop side:
+- flask
+- paho-mqtt
+- web
+
 Notes before compilation:
 - sensor.py will only run a rpi becuase the grovepi library only runs without error on a rpi
 - make sure the default 5000 port is not used for the machine running web.py
