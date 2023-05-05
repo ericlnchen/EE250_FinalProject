@@ -170,6 +170,7 @@ def on_message(client, userdata, msg):
     	print("Make your speed adjustment right now!")
     	time.sleep(5)
     	speed = grovepi.analogRead(potentiometer)
+    	print("Speed conversion done")
     else:
     	print("The message is: " + str(msg.payload))
     	speed = grovepi.analogRead(potentiometer)
