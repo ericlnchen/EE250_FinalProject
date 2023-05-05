@@ -30,5 +30,6 @@ Use your web browser and enter the local host address, and the process will star
 videos. For every new query click the refresh button on the local host web page.
 
 Demo Video Links:
+- Full Demo Video for first 4 parts on the rubric: https://youtu.be/Bi8DUGcrLlE
 - Basic Query Demonstration: https://youtube.com/shorts/K3O9U-_9BSQ
 - Adjusting the response speed: https://youtube.com/shorts/hdKfjMennH8
